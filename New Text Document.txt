@@ -1,0 +1,6 @@
+L’assurance maladie lance un chatbot
+La Caisse Nationale d’Assurance Maladie des Travailleurs Salariés (CNAMTS) met à disposition des utilisateurs du site ameli.fr un chatbot depuis le 1er janvier 2018. Ce robot conversationnel permet de simplifier les démarches des internautes.
+
+Ce robot est en mesure de répondre aux questions les plus récurrentes des internautes. Pour se faire, la CNAMTS a analysé les sollicitations des assurés quant à leurs démarches d’Assurance Maladie. L’objectif de cette analyse est de déterminer les demandes récurrentes formulées au téléphone ou par mail. Si un internaute pose une question plus spécifique, ce dernier sera redirigé vers un conseiller des caisses primaires.
+
+De plus, la conversation entre le patient et le robot sert de brief à l’agent qui reprend le dossier en main. Par conséquent, le gain de temps est considérable.
